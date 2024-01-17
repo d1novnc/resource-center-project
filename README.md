@@ -7,4 +7,3 @@ styles.css (CSS)
 scripts.js (Javascript)
 
 
-###### How to Use
